@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cypress&#39;s blog</title>
+    <link>https://cypress.rpcx.io/</link>
+    <description>Recent content on cypress&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Thu, 19 Dec 2024 12:22:29 +0800</lastBuildDate><atom:link href="https://cypress.rpcx.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://cypress.rpcx.io/posts/my-second-post/</link>
+      <pubDate>Thu, 19 Dec 2024 12:22:29 +0800</pubDate>
+      
+      <guid>https://cypress.rpcx.io/posts/my-second-post/</guid>
+      <description>hello second $E=mc^2$
+$$ E = mc^2 $$
+graph TD; A[开始] --&gt; B{判断条件}; B -- 是 --&gt; C[执行操作1]; B -- 否 --&gt; D[执行操作2]; C --&gt; E[结束]; D --&gt; E; </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://cypress.rpcx.io/posts/my-first-post/</link>
+      <pubDate>Thu, 19 Dec 2024 12:22:14 +0800</pubDate>
+      
+      <guid>https://cypress.rpcx.io/posts/my-first-post/</guid>
+      <description>hello world
+你好，世界
+1 fmt.Println(&amp;#34;hello world&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
